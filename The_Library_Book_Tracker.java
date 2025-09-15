@@ -23,7 +23,7 @@ public class The_Library_Book_Tracker {
         }
 
         int totalBooks = 0;
-        int maxBorrowings = -1; 
+        int maxBorrowings = 0; 
         String dayWithMaxBorrowings = "";
         boolean holidayFound = false;
 
